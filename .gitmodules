@@ -1,3 +1,6 @@
 [submodule "opscode-cookbooks"]
 	path = opscode-cookbooks
 	url = https://github.com/opscode/cookbooks.git
+[submodule "cookbooks/aegir"]
+	path = cookbooks/aegir
+	url = git://github.com/patcon/chef-aegir.git
